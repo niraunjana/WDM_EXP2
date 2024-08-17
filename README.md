@@ -62,5 +62,5 @@ G40,high,yes,excellent,yes
 ![WhatsApp Image 2024-08-17 at 22 45 29_ad0ff657](https://github.com/user-attachments/assets/150c0244-13d5-4294-a88f-5c62e8b7a94c)
 
 
-### RESULT: 
+### Result: 
 Thus this program has been successfully executed.
