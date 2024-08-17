@@ -1,4 +1,4 @@
-## EX2:Generating Association Rules for Employee dataset using Apriori Algorithm
+## EX2: Generating Association Rules for Employee dataset using Apriori Algorithm
 ### DATE: 
 
 ### AIM: 
